@@ -1,0 +1,16 @@
+C is a Computer Programming language used to write computer programs that makes the computer to perform task.C is easy to read and understand and gives us all the tools that we can use to make computer to run in our own way.
+There are Four Fundamentalds stages while devlopnig a c program.
+This Four fundamental stages include
+1)EDITING
+2)COMPILING
+3)LINKING
+4)EXECUTING
+
+EDITING:- This is the process of creating and modifying c program code whic we call as source code.Some compiler comes with a specific editor that provides us lots of 
+assistance.In fact, an editor provides a complete environment for writing,managing.developing  and testing our programs.This is sometimes called
+an INTEGRATED DEVELOPMENT ENVIORONMENT(IDE).
+
+COMPILING:- The compilig part is the most importa t part of programming.As computer can not understand plain english.And we write programs in english
+language.So we need a means to convert the program that were written in english to a language that computer can understand so we need a
+medium that can convert it.This medium is called as compiler.
+Compiler converts our source code into machine language.
